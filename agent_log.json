@@ -1,0 +1,178 @@
+[
+    {
+        "issue_number": 6,
+        "issue_title": "Bug: sample issue for autonomous agent",
+        "steps_executed": [
+            "Locate the code related to the bug",
+            "Reproduce the issue",
+            "Identify the faulty logic",
+            "Implement the fix",
+            "Test the fix"
+        ],
+        "tools_used": [
+            "apply_fix",
+            "create_pull_request",
+            "comment_issue",
+            "close_issue"
+        ],
+        "status": "completed"
+    },
+    {
+        "event": "execution_complete",
+        "issue": 6,
+        "status": "success",
+        "timestamp": "2026-03-14 23:15:13.571524"
+    },
+    {
+        "event": "verification",
+        "issue": 6,
+        "verified": true,
+        "timestamp": "2026-03-14 23:15:13.582249"
+    },
+    {
+        "event": "agent_started",
+        "timestamp": "2026-03-14 23:20:31.431447"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-14 23:20:32.145267"
+    },
+    {
+        "event": "agent_started",
+        "timestamp": "2026-03-14 23:22:46.020469"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 1,
+        "timestamp": "2026-03-14 23:22:47.011980"
+    },
+    {
+        "event": "issue_selected",
+        "issue_number": 7,
+        "timestamp": "2026-03-14 23:22:47.013822"
+    },
+    {
+        "event": "plan_created",
+        "issue": 7,
+        "steps": [
+            "Locate the code related to the bug",
+            "Reproduce the issue",
+            "Identify the faulty logic",
+            "Implement the fix",
+            "Test the fix"
+        ],
+        "timestamp": "2026-03-14 23:22:47.031324"
+    },
+    {
+        "event": "agent_started",
+        "timestamp": "2026-03-14 23:26:31.194958"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 1,
+        "timestamp": "2026-03-14 23:26:32.081657"
+    },
+    {
+        "event": "issue_selected",
+        "issue_number": 7,
+        "timestamp": "2026-03-14 23:26:32.082658"
+    },
+    {
+        "event": "plan_created",
+        "issue": 7,
+        "steps": [
+            "Locate the code related to the bug",
+            "Reproduce the issue",
+            "Identify the faulty logic",
+            "Implement the fix",
+            "Test the fix"
+        ],
+        "timestamp": "2026-03-14 23:26:32.092446"
+    },
+    {
+        "event": "agent_started",
+        "timestamp": "2026-03-14 23:27:57.826258"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 1,
+        "timestamp": "2026-03-14 23:27:58.740695"
+    },
+    {
+        "event": "issue_selected",
+        "issue_number": 7,
+        "timestamp": "2026-03-14 23:27:58.743914"
+    },
+    {
+        "event": "plan_created",
+        "issue": 7,
+        "steps": [
+            "Locate the code related to the bug",
+            "Reproduce the issue",
+            "Identify the faulty logic",
+            "Implement the fix",
+            "Test the fix"
+        ],
+        "timestamp": "2026-03-14 23:27:58.755458"
+    },
+    {
+        "event": "execution_complete",
+        "issue": 7,
+        "status": "success",
+        "timestamp": "2026-03-14 23:28:02.510215"
+    },
+    {
+        "event": "verification",
+        "issue": 7,
+        "verified": true,
+        "timestamp": "2026-03-14 23:28:02.512738"
+    },
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-14 23:37:46.445142"
+    },
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-15 09:44:13.861093"
+    },
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-15 09:48:35.495076"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 1,
+        "timestamp": "2026-03-15 09:48:36.361720"
+    },
+    {
+        "event": "issue_selected",
+        "issue_number": 7,
+        "timestamp": "2026-03-15 09:48:36.379237"
+    },
+    {
+        "event": "plan_created",
+        "issue": 7,
+        "steps": [
+            "Locate the code related to the bug",
+            "Reproduce the issue",
+            "Identify the faulty logic",
+            "Implement the fix",
+            "Test the fix"
+        ],
+        "timestamp": "2026-03-15 09:48:36.389413"
+    },
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-15 11:09:46.975394"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-15 11:09:47.892330"
+    }
+]

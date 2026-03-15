@@ -1,0 +1,124 @@
+[
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-15 11:13:27"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-15 11:13:28"
+    },
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-15 13:38:19"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-15 13:38:20"
+    },
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-15 13:40:14"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 1,
+        "timestamp": "2026-03-15 13:40:15"
+    },
+    {
+        "event": "issue_selected",
+        "issue_number": 7,
+        "timestamp": "2026-03-15 13:40:15"
+    },
+    {
+        "event": "plan_created",
+        "issue": 7,
+        "steps": [
+            "Locate the code related to the bug",
+            "Reproduce the issue",
+            "Identify the faulty logic",
+            "Implement the fix",
+            "Test the fix"
+        ],
+        "timestamp": "2026-03-15 13:40:15"
+    },
+    {
+        "event": "execution_complete",
+        "issue": 7,
+        "status": "fix_generated",
+        "branch": "agent-fix-issue-7",
+        "timestamp": "2026-03-15 13:40:21"
+    },
+    {
+        "event": "verification",
+        "issue": 7,
+        "verified": true,
+        "timestamp": "2026-03-15 13:40:21"
+    },
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-15 13:42:06"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-15 13:42:06"
+    },
+    {
+        "event": "agent_started",
+        "agent": "UNKNOWN",
+        "timestamp": "2026-03-15 13:46:56"
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-15 13:46:57"
+    },
+    {
+        "event": "agent_started",
+        "agent": "AUTO_AGENT",
+        "timestamp": "2026-03-15 16:19:43.178778",
+        "status": "pending",
+        "retries": 0
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-15 16:19:43.855366",
+        "status": "pending",
+        "retries": 0
+    },
+    {
+        "event": "agent_started",
+        "agent": "AUTO_AGENT",
+        "timestamp": "2026-03-15 16:21:42.346530",
+        "status": "pending",
+        "retries": 0
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-15 16:21:43.428369",
+        "status": "pending",
+        "retries": 0
+    },
+    {
+        "event": "agent_started",
+        "agent": "AUTO_AGENT",
+        "timestamp": "2026-03-15 16:28:13.009677",
+        "status": "pending",
+        "retries": 0
+    },
+    {
+        "event": "issues_discovered",
+        "count": 0,
+        "timestamp": "2026-03-15 16:28:13.717818",
+        "status": "pending",
+        "retries": 0
+    }
+]

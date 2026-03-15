@@ -1,0 +1,7 @@
+{
+  "agent_name": "GitHub Autonomous Issue Fixer",
+  "operator_wallet": "0xABCD1234FAKEWALLET",
+  "erc8004_identity": "erc8004:agent:github-fixer-001",
+  "description": "Autonomous agent that discovers GitHub issues, plans fixes, and submits pull requests automatically.",
+  "version": "1.0"
+}

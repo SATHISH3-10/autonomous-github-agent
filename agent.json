@@ -1,0 +1,35 @@
+{
+  "agent_name": "GitHub Autonomous Issue Fixer",
+  "version": "1.0",
+  "operator_wallet": "0xABCD1234FAKEWALLET",
+  "erc8004_identity": "erc8004:agent:github-fixer-001",
+
+  "supported_tools": [
+    "GitHub Issues API",
+    "GitHub Contents API",
+    "GitHub Pull Request API",
+    "GitHub Comments API"
+  ],
+
+  "tech_stack": [
+    "Python",
+    "REST API",
+    "GitHub Automation"
+  ],
+
+  "task_categories": [
+    "bug fixing",
+    "repository maintenance",
+    "issue automation"
+  ],
+
+  "compute_constraints": {
+    "max_api_calls_per_run": 50,
+    "max_issues_processed": 5
+  },
+
+  "environment": {
+    "runtime": "Python 3.x",
+    "execution_mode": "autonomous"
+  }
+}
